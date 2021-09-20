@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "694285135685",
+    "project_id": "indicanet-912bb",
+    "storage_bucket": "indicanet-912bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694285135685:android:f0a1396494a671113b182c",
+        "android_client_info": {
+          "package_name": "com.rede.indicanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694285135685-p9dblc1dgcdg0622pvs0mnb2v2jk7liu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG04ZmmxH2D_g4iYJ5JyCNpQ5LH0nofjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694285135685-p9dblc1dgcdg0622pvs0mnb2v2jk7liu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694285135685-7i3hsk8r554tp3r20v4ahsudme0iae2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "IndicaNetWebApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
